@@ -1,2 +1,2 @@
-# roly-legal
-roly legal docs
+# Wibo-legal
+Wibo legal docs
